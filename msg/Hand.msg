@@ -1,0 +1,3 @@
+float32 index_tip_x
+float32 index_tip_y
+float32 index_tip_z
