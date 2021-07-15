@@ -1,3 +1,12 @@
 float32 index_tip_x
 float32 index_tip_y
 float32 index_tip_z
+float32 index_dip_x
+float32 index_dip_y
+float32 index_dip_z
+float32 index_pip_x
+float32 index_pip_y
+float32 index_pip_z
+float32 index_mcp_x
+float32 index_mcp_y
+float32 index_mcp_z
